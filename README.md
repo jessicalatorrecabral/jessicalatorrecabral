@@ -16,7 +16,7 @@
 
 :cat: I'm cat lover.
 
-:outbox_tray: 2021 Goals: find a new job.
+:outbox_tray: 2021 Goals: I finally found a job ❤.
 
  
 
