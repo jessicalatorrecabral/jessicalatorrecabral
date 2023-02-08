@@ -12,13 +12,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning React.js.
+:books: I’m currently learning TypeScript.
 
 :cat: I'm cat lover.
-
-:outbox_tray: 2021 Goals: I finally found a job ❤.
-
- 
 
 ## About me
 
